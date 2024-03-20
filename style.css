@@ -1,0 +1,116 @@
+body{
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    color: gray;
+}
+.main-menu{
+    text-align: right;
+    padding-right: 20px;
+}
+.main-menu a {
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    font-family: sans-serif;
+    text-align: right;
+    margin-top: 20px;
+    
+}
+section{
+    margin-top: 30px;
+    
+}
+.hero-area{
+    height:500px ;
+
+}
+.half-width {
+    width: 39%;
+    padding-left: 70px;
+    float: left;
+    margin-left: 5%;
+}
+.half-width img{
+    width: 100%;
+}
+.half-width h1 {
+    padding-top: 150px;
+    font-family: fantasy;
+    font-weight: 500;
+}
+.half-width span {
+    color: orange;
+}
+.link-btn {
+text-decoration: none;
+padding: 10px 20px;
+background-image:linear-gradient(45deg, lightSalmon, tomato);
+border-radius: 5px;
+color: white;
+}
+.about-area{
+    height: 800px;
+}
+.about-area h2{
+    padding-top: 200px;
+
+}
+.spacial-color{
+    color: tomato;
+}
+.project-area h2{
+    text-align: center;
+}
+.single-project {
+    padding: 30px;
+    float: left;
+    width: 25%;
+    margin: 20px;
+    box-shadow: 10px 10px 20px gray;
+    border-radius: 10px;
+}
+.single-project img{
+    width: 100%;
+}
+.work-area {
+    clear: left;
+    padding: 100px;
+    height: 300px;
+}
+.inner-work-area{
+background-image: url("shapes/Group_33094_1.png");
+background-repeat: no-repeat;
+background-size: contain;
+height: 500px;
+}
+.single-work-area h1 {
+    color: white;
+    font-size: 39px;
+    
+}
+.single-work-area {
+    float: left;
+    padding: 79px;
+}
+.single-work-area .link-btn{
+padding: 20px;
+}
+.link-btn-work-area {
+    padding-top: 130px;
+    margin-left: 754px;
+}
+footer{
+    text-align: center;
+}
+footer p{
+    font-size: 30px;
+    color: gray;
+}
